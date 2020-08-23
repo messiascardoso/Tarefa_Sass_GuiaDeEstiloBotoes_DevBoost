@@ -1,0 +1,19 @@
+{
+  "name": "tarefa_sass_guiadeestilobotoes_devboost",
+  "version": "1.0.0",
+  "description": "Montar um guia de estilo para botões conforme mostrado na imagem,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messiascardoso/Tarefa_Sass_GuiaDeEstiloBotoes_DevBoost.git"
+  },
+  "author": "G6-D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/messiascardoso/Tarefa_Sass_GuiaDeEstiloBotoes_DevBoost/issues"
+  },
+  "homepage": "https://github.com/messiascardoso/Tarefa_Sass_GuiaDeEstiloBotoes_DevBoost#readme"
+}
