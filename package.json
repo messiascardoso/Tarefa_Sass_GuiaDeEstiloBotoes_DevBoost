@@ -1,7 +1,7 @@
 {
-  "name": "tarefa_sass_guiadeestilobotoes_devboost",
+  "name": "devboost",
   "version": "1.0.0",
-  "description": "Montar um guia de estilo para botões conforme mostrado na imagem,",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
